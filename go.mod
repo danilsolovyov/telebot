@@ -1,4 +1,4 @@
-module github.com/danilsolovyov/telebot.v3
+module github.com/danilsolovyov/telebot
 
 go 1.13
 
