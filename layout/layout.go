@@ -9,8 +9,8 @@ import (
 	"sync"
 	"text/template"
 
+	tele "github.com/danilsolovyov/telebot"
 	"github.com/goccy/go-yaml"
-	tele "gopkg.in/telebot.v3"
 )
 
 type (
